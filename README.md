@@ -46,6 +46,10 @@ Which statement best describes the business problem that Accenture is tasked to 
 Which statement lists the three requirements that Accenture is tasked to fulfill for this project?  
 **Answer:** Audit of big data practice, recommendations for IPO, analysis of popular content.
 
+**Meet your Accenture team**
+
+
+
 ## Task 2
 
 ## Task 3

@@ -84,7 +84,7 @@ Definitions of different data types:
 
 **Completed a short knowledge check:**  
 
-**Question 1 of 1**  Which three data sets will you need to complete your analysis?
+**Question 1 of 1**  Which three data sets will you need to complete your analysis?   
 **Answer:** Reaction, Content, Reaction Types.  
 
 **Data sets**  
@@ -101,9 +101,20 @@ Data cleaning is a common and very important task when working with data.
 
 **First:** Open the three data sets below
 
-Reactions
-Content
-Reaction types
+[Reactions](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Reactions.csv)
+[Content](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Content.csv)
+[Reaction types](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/ReactionTypes.csv)  
+
+**Second:** Clean the data by:   
+- removing rows that have values which are missing,
+- changing the data type of some values within a column, and
+- removing columns which are not relevant to this task.
+
+As a result should be three cleaned data sets. 
+
+
+
+
 
 
 ## Task 3

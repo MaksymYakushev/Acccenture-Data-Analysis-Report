@@ -48,6 +48,9 @@ Which statement lists the three requirements that Accenture is tasked to fulfill
 
 **Meet your Accenture team**
 
+<img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Internal%20stakeholder%20chart.pdf" width="800" height="600">
+
+
 
 
 ## Task 2

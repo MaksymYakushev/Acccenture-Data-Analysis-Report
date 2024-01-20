@@ -89,6 +89,22 @@ Definitions of different data types:
 
 **Data sets**  
 
+To clarify why you made this selection:  
+- The brief carefully it states that the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
+- As explained in the data model, popularity is quantified by the “Score” given to each reaction type.
+- We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
+- So, to figure out popularity, we’ll have to add up which content categories have the largest score.
+
+**Data Cleaning**  
+
+Data cleaning is a common and very important task when working with data.
+
+**First:** Open the three data sets below
+
+Reactions
+Content
+Reaction types
+
 
 ## Task 3
 

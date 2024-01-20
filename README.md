@@ -6,7 +6,7 @@
 
 ## Task 1:  Project Understanding
 
-First task is to read the brief from Social Buzz. [Read the brief](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Data_Analytics%20Client%20Brief.pdf) to:
+First task is to read [the brief from Social Buzz](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Data_Analytics%20Client%20Brief.pdf). [Read the brief](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Data_Analytics%20Client%20Brief.pdf) to:
 - Understand the client and business problem at hand.
 - Identify the requirements that need to be delivered for this project.
 - Identify which tasks you should focus on as a Data Analyst.

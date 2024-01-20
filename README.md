@@ -71,7 +71,16 @@ So, let’s have a look at what data you have to work with. The client has sent 
 
 **Requirements gathering**
 
-[Data Model]()
+First step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+
+[Data Model](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Data%20model.pdf)
+
+Definitions of different data types:
+- **String** - Sequence of characters, digits, or symbols—always treated as text
+- **UUID** - Universally Unique Identifiers
+- **Array** - List with a number of elements in a specific order—typically of the same type
+- **Integer** - Numeric data type for numbers without fractions
+- **Timestamp** - Number of seconds that have elapsed since midnight (00:00:00 UTC), 1st January 1970 (Unix time)
 
 ## Task 3
 

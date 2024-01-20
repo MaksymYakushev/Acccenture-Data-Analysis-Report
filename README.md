@@ -50,9 +50,9 @@ Which statement lists the three requirements that Accenture is tasked to fulfill
 
 The team is structured in three key groups:
 
-**Industry experts** in the social media space to ensure we accurately understand Social Buzz’s sector.
-**IPO experts** who will deliver on the IPO requirement
-**Data experts** who will provide Big Data insights and content category analysis. This is where you sit!
+**Industry experts** in the social media space to ensure we accurately understand Social Buzz’s sector.   
+**IPO experts** who will deliver on the IPO requirement.   
+**Data experts** who will provide Big Data insights and content category analysis.   
 
 
 

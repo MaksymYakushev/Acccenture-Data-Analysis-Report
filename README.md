@@ -120,7 +120,15 @@ We can use a “VLookUp” formula for merging three tables together. So I did t
 
 **2. Figure out the Top 5 performing categories**  
 
-Using pivot tables, I got sums for each of the categories. I sort by decreasing points and get top 5 performing categories.   
+Using pivot tables, I got sums for each of the categories. I sort by decreasing score and get top 5 performing categories.  
+
+| Category | Score SUM |   
+| -------- | -------- |  
+| Animals | 74965 |
+| Science | 71168 |
+| Healthy eating | 69339 |
+| Technology | 68738 |
+| Food | 66676 | 
 
 [The end result](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/CleanedDataset_TheTopFiveCategories.xlsx) it's one spreadsheet which contains: a cleaned dataset and the top 5 categories.
 

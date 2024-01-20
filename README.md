@@ -112,6 +112,12 @@ Data cleaning is a common and very important task when working with data.
 
 As a result should be three cleaned data sets. 
 
+**Data Modelling**
+
+**1. Create a final data set by merging your three tables together**
+**2. Figure out the Top 5 performing categories**
+
+
 
 
 

@@ -48,6 +48,12 @@ Which statement lists the three requirements that Accenture is tasked to fulfill
 
 [**Meet your Accenture team**](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Internal%20stakeholder%20chart.pdf)
 
+The team is structured in three key groups:
+
+**Industry experts** in the social media space to ensure we accurately understand Social Buzz’s sector.
+**IPO experts** who will deliver on the IPO requirement
+**Data experts** who will provide Big Data insights and content category analysis. This is where you sit!
+
 
 
 

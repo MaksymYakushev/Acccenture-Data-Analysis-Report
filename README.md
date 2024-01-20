@@ -38,7 +38,7 @@ technology landscape
 
 **Question 1 of 2**
 
-Which statement best describes the business problem that Accenture is tasked to address for this project?
+Which statement best describes the business problem that Accenture is tasked to address for this project? \n
 **Answer:** The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 
 **Question 2 of 2**

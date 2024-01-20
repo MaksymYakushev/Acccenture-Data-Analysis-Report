@@ -4,9 +4,12 @@
 
 .....
 
-## Task 1
+## Task 1:  Project Understanding
 
-
+First task is to read the brief from Social Buzz. Read the brief to:
+- Understand the client and business problem at hand.
+- Identify the requirements that need to be delivered for this project.
+- Identify which tasks you should focus on as a Data Analyst.
 
 ## Task 2
 

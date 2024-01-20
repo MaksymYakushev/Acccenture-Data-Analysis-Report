@@ -6,7 +6,7 @@
 
 ## Task 1:  Project Understanding
 
-First task is to read [the brief from Social Buzz](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Data_Analytics%20Client%20Brief.pdf). [Read the brief](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Data_Analytics%20Client%20Brief.pdf) to:
+First task is to read the brief from Social Buzz. [Read the brief](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Data_Analytics%20Client%20Brief.pdf) to:
 - Understand the client and business problem at hand.
 - Identify the requirements that need to be delivered for this project.
 - Identify which tasks you should focus on as a Data Analyst.
@@ -34,6 +34,17 @@ technology landscape
 - Analysis of sample data sets with visualizations
 - Full documentation of the process that we can guide them through for IPO
 
+Completed a short knowledge check:
+
+Question 1 of 2
+Which statement best describes the business problem that Accenture is tasked to address for this project?
+
+Answer: The client has reached a massive scale within recent years and does not have the resources internally to handle it.
+
+Question 2 of 2
+Which statement lists the three requirements that Accenture is tasked to fulfill for this project?
+
+Answer: Audit of big data practice, recommendations for IPO, analysis of popular content.
 
 ## Task 2
 

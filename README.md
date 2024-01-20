@@ -114,8 +114,15 @@ As a result should be three cleaned data sets.
 
 **Data Modelling**
 
-**1. Create a final data set by merging your three tables together**
-**2. Figure out the Top 5 performing categories**
+**1. Create a final data set by merging your three tables together**  
+
+We can use a “VLookUp” formula for merging three tables together. So I did that.
+
+**2. Figure out the Top 5 performing categories**  
+
+Using pivot tables, I got sums for each of the categories. I sort by decreasing points and get top 5 performing categories.   
+
+[The end result](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/CleanedDataset_TheTopFiveCategories.xlsx) it's one spreadsheet which contains: a cleaned dataset and the top 5 categories.
 
 
 

@@ -34,6 +34,7 @@ technology landscape
 - Analysis of sample data sets with visualizations
 - Full documentation of the process that we can guide them through for IPO
 
+
 ## Task 2
 
 ## Task 3

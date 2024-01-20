@@ -60,7 +60,7 @@ The team is structured in three key groups:
 Which task out of these options is the most relevant to you as a data analyst, and therefore which one will you work on?  
 **Answer:** Analysis of sample data sets with visualizations to understand the popularity of different content categories   
 
-## Task 2
+## Task 2: Data Cleaning & Modeling
 
 **Let's dive into the data**
 
@@ -81,6 +81,14 @@ Definitions of different data types:
 - **Array** - List with a number of elements in a specific order—typically of the same type
 - **Integer** - Numeric data type for numbers without fractions
 - **Timestamp** - Number of seconds that have elapsed since midnight (00:00:00 UTC), 1st January 1970 (Unix time)
+
+**Completed a short knowledge check:**  
+
+**Question 1 of 1**  Which three data sets will you need to complete your analysis?
+**Answer:** Reaction, Content, Reaction Types.  
+
+**Data sets**  
+
 
 ## Task 3
 

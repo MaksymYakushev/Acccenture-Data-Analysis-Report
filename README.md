@@ -2,9 +2,11 @@
 
 <img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Data/logo.png" width="420" height="200">
 
-
+.....
 
 ## Task 1
+
+
 
 ## Task 2
 

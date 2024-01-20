@@ -34,17 +34,17 @@ technology landscape
 - Analysis of sample data sets with visualizations
 - Full documentation of the process that we can guide them through for IPO
 
-Completed a short knowledge check:
+**Completed a short knowledge check:**
 
-Question 1 of 2
+**Question 1 of 2**
+
 Which statement best describes the business problem that Accenture is tasked to address for this project?
+**Answer:** The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 
-Answer: The client has reached a massive scale within recent years and does not have the resources internally to handle it.
+**Question 2 of 2**
 
-Question 2 of 2
 Which statement lists the three requirements that Accenture is tasked to fulfill for this project?
-
-Answer: Audit of big data practice, recommendations for IPO, analysis of popular content.
+**Answer:** Audit of big data practice, recommendations for IPO, analysis of popular content.
 
 ## Task 2
 

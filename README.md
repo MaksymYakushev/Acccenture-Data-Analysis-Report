@@ -132,12 +132,6 @@ Using pivot tables, I got sums for each of the categories. I sort by decreasing 
 
 [The end result](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/CleanedDataset_TheTopFiveCategories.xlsx) it's one spreadsheet which contains: a cleaned dataset and the top 5 categories.
 
-
-
-
-
-
-
-## Task 3
+## Task 3: Data Visualization & Storytelling
 
 ## Task 4

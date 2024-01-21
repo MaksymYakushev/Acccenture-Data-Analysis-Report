@@ -134,4 +134,27 @@ Using pivot tables, I got sums for each of the categories. I sort by decreasing 
 
 ## Task 3: Data Visualization & Storytelling
 
+**Build your presentation Structure**  
+Here is a [template](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Data%20Analytics%20template%20-%20Task%203_final.pptx) that Accenture use to create a presentation.   
+
+**Completed a short knowledge check:**  
+
+**Question 1 of 1**  Have you completed slides 2-6 in your presentation?  
+**Answer:** Yes!  
+
+**Create your charts**
+
+The final step of this task is to populate slides 7 - 10 with my data insights.
+
+We know that the client wants to understand the top 5 content categories. Have a think about what are the best ways to present this? In a pie chart? In a bar chart?  
+
+There are also some other interesting insights that we might want to share with them. For example:   
+- How many unique categories are there?
+- How many reactions are there to the most popular category?
+- What was the month with the most posts?
+
+
+
+
+
 ## Task 4

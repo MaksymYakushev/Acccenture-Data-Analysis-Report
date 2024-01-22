@@ -46,7 +46,9 @@ Which statement best describes the business problem that Accenture is tasked to 
 Which statement lists the three requirements that Accenture is tasked to fulfill for this project?  
 **Answer:** Audit of big data practice, recommendations for IPO, analysis of popular content.
 
-[**Meet your Accenture team**](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Internal%20stakeholder%20chart.pdf)
+**Meet your Accenture team**   
+
+[My team](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Internal%20stakeholder%20chart.pdf)   
 
 The team is structured in three key groups:
 
@@ -64,14 +66,14 @@ Which task out of these options is the most relevant to you as a data analyst, a
 
 **Let's dive into the data**
 
-So, let’s have a look at what data you have to work with. The client has sent through:
+So, let’s have a look at what data have to work with. The client has sent through:
 
 - **7 data sets** - each data set contains different columns and values.   
 - **A data model** - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.  
 
 **Requirements gathering**
 
-First step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+First step is to use this data model to identify which datasets will be required to answer our business question - which is to to figure out the top 5 categories with the largest popularity.
 
 [Data Model](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Data%20model.pdf)
 
@@ -89,7 +91,7 @@ Definitions of different data types:
 
 **Data sets**  
 
-To clarify why you made this selection:  
+To clarify why we made this selection:  
 - The brief carefully it states that the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 - As explained in the data model, popularity is quantified by the “Score” given to each reaction type.
 - We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
@@ -116,11 +118,11 @@ As a result should be three cleaned data sets.
 
 **1. Create a final data set by merging your three tables together**  
 
-We can use a “VLookUp” formula for merging three tables together. So I did that.
+We can use a “VLookUp” formula for merging three tables together. So I did it.
 
 **2. Figure out the Top 5 performing categories**  
 
-Using pivot tables, I got sums for each of the categories. I sort by decreasing score and get top 5 performing categories.  
+Using pivot tables, I got sums for each of the categories. I sorted by decreasing score and got top 5 performing categories.  
 
 | Category | Score SUM |   
 | -------- | -------- |  
@@ -142,7 +144,12 @@ Here is a [template](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-
 **Question 1 of 1**  Have you completed slides 2-6 in your presentation?  
 **Answer:** Yes!  
 
-**Create your charts**
+**Quick explanation**
+
+
+
+
+**Create my charts**
 
 The final step of this task is to populate slides 7 - 10 with my data insights.
 
@@ -152,6 +159,9 @@ There are also some other interesting insights that we might want to share with 
 - How many unique categories are there?
 - How many reactions are there to the most popular category?
 - What was the month with the most posts?
+
+
+**Data Visualization Explained**
 
 
 

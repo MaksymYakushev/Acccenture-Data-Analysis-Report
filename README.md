@@ -158,7 +158,12 @@ We know that the client wants to understand the top 5 content categories. Have a
 There are also some other interesting insights that we might want to share with them. For example:   
 - How many unique categories are there?
 - How many reactions are there to the most popular category?
-- What was the month with the most posts?
+- What was the month with the most posts?   
+
+**1. Insights**
+<img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Insights.jpg" width="420" height="200">
+
+
 
 
 **Data Visualization Explained**

@@ -48,7 +48,7 @@ Which statement lists the three requirements that Accenture is tasked to fulfill
 
 **Meet your Accenture team**   
 
-[My team](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Internal%20stakeholder%20chart.pdf)   
+📃[My team](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task1/Internal%20stakeholder%20chart.pdf)   
 
 The team is structured in three key groups:
 
@@ -103,9 +103,9 @@ Data cleaning is a common and very important task when working with data.
 
 **First:** Open the three data sets below
 
-[Reactions](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Reactions.csv)
-[Content](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Content.csv)
-[Reaction types](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/ReactionTypes.csv)  
+📃[Reactions](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Reactions.csv)
+📃[Content](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Content.csv)
+📃[Reaction types](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/ReactionTypes.csv)  
 
 **Second:** Clean the data by:   
 - removing rows that have values which are missing,
@@ -132,7 +132,7 @@ Using pivot tables, I got sums for each of the categories. I sorted by decreasin
 | Technology | 68738 |
 | Food | 66676 | 
 
-[The end result](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/CleanedDataset_TheTopFiveCategories.xlsx) it's one spreadsheet which contains: a cleaned dataset and the top 5 categories.
+📃[The end result](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/CleanedDataset_TheTopFiveCategories.xlsx) it's one spreadsheet which contains: a cleaned dataset and the top 5 categories.
 
 ## Task 3: Data Visualization & Storytelling
 

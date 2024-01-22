@@ -144,11 +144,6 @@ Here is a [template](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-
 **Question 1 of 1**  Have you completed slides 2-6 in your presentation?  
 **Answer:** Yes!  
 
-**Quick explanation**
-
-
-
-
 **Create my charts**
 
 The final step of this task is to populate slides 7 - 10 with my data insights.

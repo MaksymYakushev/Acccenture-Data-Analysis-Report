@@ -190,7 +190,17 @@ A bar chart is a great way to show popularity for Top 5 categories. It's visuall
 
 <img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Graph2.jpg" width="620" height="340">  
 
+
 I reformat the data to show popularity in percents.
+
+**Summary**   
+
+During the data analysis, we prepared a presentation that reflects the key insights. The main task was to determine the five most popular categories of content. To do this, we used different visualization techniques, such as pie and bar charts, to visually represent these categories and their percentage content.
+
+The analysis also revealed other interesting findings that may be useful to the client. We determined the number of unique categories, looked at the reactions to the most popular category and determined the month with the most posts.
+
+All this data was visualized in clear and understandable graphs to make it easier for the client to understand. Using Excel, we provided effective information visualization. We are confident that our presentation provides information that will enable the client to better understand the dynamics and underlying trends in their content.  
+
 
 📃[Full presentation](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Data%20Analytics%20template%20-%20Task%203_final.pptx)   
 📃[Updated Cleared Dataset](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/CleanedDataset_TheTopFiveCategories_forPresentation.xlsx)

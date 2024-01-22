@@ -164,6 +164,26 @@ There are also some other interesting insights that we might want to share with 
 
 <img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Insights.jpg" width="620" height="340">
 
+There are a total of 16 unique categories. 
+
+With the help of pivot tables, the largest number of reactions to categories was determined. Сhose the largest one, that is "Animal". I got 1897 Reactions to content with animals. 
+
+Also got the month with the most posts. To do this, I added a new column called "Month" to the [Cleaned Dataset](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/CleanedDataset_TheTopFiveCategories_forPresentation.xlsx) and determined in which month the post was made using the MONTH() formula. Then, using pivot tables, I determined the month with the largest number of posts. It was May.   
+
+| Month | COUNT Month |   
+| -------- | -------- |  
+| 1 | 2126 |
+| 2 | 1914 |
+| 3 | 2012 |
+| 4 | 1974 |
+| 5 | 2138 |   
+| 6 | 2021 |
+| 7 | 2070 |
+| 8 | 2114 |
+| 9 | 2022 |
+| 10 | 2056 |  
+| 11 | 2034 |
+| 12 | 2092 |
 
 
 

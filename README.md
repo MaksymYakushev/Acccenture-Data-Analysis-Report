@@ -103,9 +103,9 @@ Data cleaning is a common and very important task when working with data.
 
 **First:** Open the three data sets below
 
-📃[Reactions](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Reactions.csv)
-📃[Content](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Content.csv)
-📃[Reaction types](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/ReactionTypes.csv)  
+📃[Reactions](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Reactions.csv)   
+📃[Content](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Content.csv)   
+📃[Reaction types](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/ReactionTypes.csv)     
 
 **Second:** Clean the data by:   
 - removing rows that have values which are missing,

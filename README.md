@@ -75,7 +75,7 @@ So, let’s have a look at what data have to work with. The client has sent thro
 
 First step is to use this data model to identify which datasets will be required to answer our business question - which is to to figure out the top 5 categories with the largest popularity.
 
-[Data Model](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Data%20model.pdf)
+📃[Data Model](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task2/Data%20model.pdf)
 
 Definitions of different data types:
 - **String** - Sequence of characters, digits, or symbols—always treated as text

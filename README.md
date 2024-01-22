@@ -192,8 +192,8 @@ A bar chart is a great way to show popularity for Top 5 categories. It's visuall
 
 I reformat the data to show popularity in percents.
 
-[Full presentation](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Data%20Analytics%20template%20-%20Task%203_final.pptx)
-[Updated Cleared Dataset](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/CleanedDataset_TheTopFiveCategories_forPresentation.xlsx)
+📃[Full presentation](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Data%20Analytics%20template%20-%20Task%203_final.pptx)   
+📃[Updated Cleared Dataset](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/CleanedDataset_TheTopFiveCategories_forPresentation.xlsx)
 
 
 

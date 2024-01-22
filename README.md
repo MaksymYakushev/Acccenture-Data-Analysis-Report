@@ -185,9 +185,16 @@ Also got the month with the most posts. To do this, I added a new column called 
 | 11 | 2034 |
 | 12 | 2092 |
 
+**2. Bar chart**  
 
+<img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Graph1.jpg" width="620" height="340">
 
-**Data Visualization Explained**
+A bar chart is a great way to show popularity for Top 5 categories. It's visually clear and easy to understand.  
+
+**3. Circle chart**
+
+<img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Graph2.jpg" width="620" height="340">
+
 
 
 

@@ -160,8 +160,9 @@ There are also some other interesting insights that we might want to share with 
 - How many reactions are there to the most popular category?
 - What was the month with the most posts?   
 
-**1. Insights**
-<img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Insights.jpg" width="420" height="200">
+**1. Insights**  
+
+<img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task3/Insights.jpg" width="620" height="340">
 
 
 

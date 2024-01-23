@@ -2,6 +2,8 @@
 
 <img src="https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Data/logo.png" width="420" height="200">   
 
+[Certificate](https://github.com/MaksymYakushev/Acccenture-Data-Analysis-Report/blob/main/Task4/accenture.pdf)  
+
 Welcome! This project is a web internship at Accenture as a Data analyst. This is my first project on GitHub and also my first web internship. Enjoy exploring the project!
 
 ## Task 1:  Project Understanding
